@@ -38,7 +38,7 @@ ___
 &nbsp;
  
 
-* <a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_01/Problema_01.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟭</a>
+* <a href="https://github.com/johnerik63/Exercises_Data_Analiticys/blob/main/Problema_01/Problema_01.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟭</a>
 
 ---
 
@@ -51,7 +51,7 @@ ___
 
 &nbsp;&nbsp; 
 
-<a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_02/Problema_02.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟮</a>
+<a href="https://github.com/johnerik63/Exercises_Data_Analiticys/blob/main/Problema_02/Problema_02.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟮</a>
 
 ---
 
@@ -64,7 +64,7 @@ ___
 
 &nbsp;&nbsp; 
 
-<a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_03/Problema_03.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟯</a>
+<a href="https://github.com/johnerik63/Exercises_Data_Analiticys/blob/main/Problema_03/Problema_03.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟯</a>
 
 ---
 
@@ -77,7 +77,7 @@ ___
 
 &nbsp;&nbsp; 
 
-<a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_04/Problema_04.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟰</a>
+<a href="https://github.com/johnerik63/Exercises_Data_Analiticys/blob/main/Problema_04/Problema_04.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟰</a>
 
 ---
 
